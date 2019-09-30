@@ -1,0 +1,44 @@
+/*Add external fonts*/
+@import url('https://fonts.googleapis.com/css?family=Nunito:200,300i,400,700|Rubik:300i,400,500i,700&display=swap');
+
+h1{
+  font-family: 'Rubik', sans-serif;
+  font-weight: 700;
+  color: #C2CBF9;
+}
+
+h2{
+  font-family: 'Rubik', sans-serif;
+  font-weight: 500;
+  color: #AEB8F2;
+}
+
+h3{
+  font-family: 'Rubik', sans-serif;*
+  font-weight: 700;
+  color: #909BDB;
+}
+
+li{
+  font-family: 'Rubik', sans-serif;*
+  font-weight: 300;
+  color: #7C88C9;
+}
+
+body{
+  background-color: #EEEAFF;
+
+}
+
+header, main{
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menuTitle{
+  color: #AEB8F2
+}
+
+/*font-family: 'Rubik', sans-serif;
+font-family: 'Nunito', sans-serif;*/
